@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LineChartFragment">
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/active_minutes_day_chart"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</FrameLayout>

@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="lineGraphHigh">#fbfb00</color>
+    <color name="lineGraphLow">#1a5d7e</color>
+    <color name="decobackground">#9e9e9e</color>
 </resources>
